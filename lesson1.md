@@ -14,4 +14,4 @@ sammy6124
 
 My Favorite 3 Programming Languages
 --------------------------------
-c,c++,c#
+ -c -c++ -c#
